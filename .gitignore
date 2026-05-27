@@ -41,72 +41,8 @@ datasets/
 *.sqlite
 *.db
 
-# Keep sample data if needed
-!data/sample/
 
-# =========================
-# Model files
-# =========================
-models/
-*.pkl
-*.pickle
-*.joblib
-*.h5
-*.pt
-*.pth
-*.onnx
-
-# =========================
-# Logs & outputs
-# =========================
-logs/
-*.log
-
-# Reports / generated files
-reports/
-outputs/
-figures/
-plots/
-
-# =========================
-# Environment variables
-# =========================
-.env
-.env.*
-
-# =========================
-# IDEs & Editors
-# =========================
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# =========================
-# OS files
-# =========================
-.DS_Store
-Thumbs.db
-
-# =========================
-# Testing / coverage
-# =========================
-.pytest_cache/
-.coverage
-htmlcov/
-
-# =========================
-# Cache directories
-# =========================
-.cache/
-.mypy_cache/
-.ruff_cache/
-
-# =========================
-# ML Experiment Tracking
-# =========================
-mlruns/
-wandb/
+#
 
 # =========================
 # Temporary files
