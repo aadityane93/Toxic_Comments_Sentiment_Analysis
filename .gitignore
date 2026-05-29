@@ -114,3 +114,8 @@ wandb/
 tmp/
 temp/
 *.tmp
+
+*.md
+*.txt
+*.pdf
+*.pptx
