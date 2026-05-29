@@ -116,5 +116,6 @@ temp/
 *.tmp
 
 *.md
-.txt
-.pdf
+*.txt
+*.pdf
+*.pptx
