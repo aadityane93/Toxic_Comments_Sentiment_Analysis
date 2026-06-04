@@ -1,0 +1,15 @@
+--extra-index-url https://download.pytorch.org/whl/cu128
+torch
+torchvision
+torchaudio
+numpy
+pandas
+scikit-learn
+matplotlib
+torch
+transformers
+datasets
+accelerate
+tqdm
+notebook
+ipykernel
