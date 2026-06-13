@@ -13,3 +13,4 @@ accelerate
 tqdm
 notebook
 ipykernel
+ipykernel
